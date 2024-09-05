@@ -1,0 +1,428 @@
+    /*background color */
+    body {
+        background-color: #010922;
+        font-family:Inter;
+    }
+    a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+   }
+
+
+    /* Kyrpto Logo */
+    h1{ 
+        font-weight: bolder;
+        color:rgb(255, 255, 255);
+    font-size:large;
+    
+    }
+
+
+/* discover new and rare nfts */
+     .discover-collectrarenft{
+        margin-top: 9.375rem;
+        margin-left: -6.25rem;
+     }
+        
+     
+    
+    
+    .navbar{
+        height: 4.375rem;
+        background-color:#010922;
+        color:rgb(255, 242, 242);
+        display: flex;
+        position: fixed;
+        margin-top: -0.625rem;
+        width: 100%;
+        align-items: center;    
+    }
+    /* logo margin*/
+    .nav-logo{
+        margin-top: 0.625;
+        margin-left: 4.375rem;
+    }
+
+
+    /* about margin*/
+    .nav-about{
+        margin-left: 37.5rem;
+        margin-top: 0.625rem;
+    }
+
+
+    /* pricing margin*/
+    .nav-pricing{
+        margin-left: 6.25rem;
+    margin-top: 0.625rem;    
+    }
+
+
+    /* terms margin*/
+    .nav-terms{
+        margin-left: 6.25rem;
+        margin-top: 0.625rem;
+    }
+
+
+    /* sign uppcontainer*/
+    .container{
+        width: 8.25rem;
+        color: rgb(255, 248, 248)
+;
+        height: 3.125rem;
+        border: 0.063rem #5c7ad1;
+        background-color: #A39FD7;
+        margin-left: 6.25rem;
+        margin-top: 0.625rem;
+        margin-right: 1.25rem;  
+        border-radius: 0.938rem;  
+        text-align: center;
+        align-items: center;
+        /* font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+        /*animation*/
+        transition-property:transform ;
+        transition-duration: 0.5s;
+        transition-timing-function: ease ;
+    }
+    /* animation*/
+    .container:hover {
+        transform: translateY(-3px)
+    }
+
+
+    /* hero section */
+    .discover-section{
+        margin-top: 5.625rem;
+        margin-left: 14.375rem;
+        margin-bottom: 0.625rem;
+        /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;} */
+    }
+
+
+    /* buy nfts*/
+    .buynftcontainer{
+    width: 13.063rem;
+        
+        height: 5rem;
+        border: 0.063rem #5c7ad1;
+        background-color:  #A39FD7;
+
+        margin-left: -6.25rem;
+        margin-top: 0.063rem;
+        margin-right: 1.25rem;  
+        border-radius: 2.563rem;  
+        text-align: center;
+        align-items: center;
+        font-family:Inter;
+        /* font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    /*animation*/
+    transition-property:transform ;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;}
+    .buynftcontainer:hover{
+        transform: translateY(-3px)
+    }
+
+
+    /* sell nfts*/
+    .sellnftcontainer{
+        width: 13.063rem;
+        color: rgb(255, 255, 255);
+        height: 5rem;
+        border: 0.094rem solid #74B4B3;
+        background-color: rgb(64, 88, 126);
+        margin-left: 0.063rem;
+        margin-top: 0.063rem;
+        margin-right: 1.25rem;  
+        border-radius: 2.563rem;  
+        text-align: center;
+        align-items: center;
+        font-family: Inter;
+        /* font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    /*animation*/
+    transition-property:transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;}
+    .sellnftcontainer:hover{
+        transform: translateY(-3px)
+    }
+     
+
+    .sellnftcontainer a{
+        color: white;
+    }
+    /* img1*/
+    .computerimg{
+        float: right;
+        margin-right: -0.125rem;
+        margin-top: -20rem;
+        /* position: absolute; */
+        left: 37.5rem;
+        /* top: 0px; */
+        padding: 3.125rem;
+    }
+
+    /*Para1*/
+    .para1{
+        color: white;
+        font-weight:500;
+        margin-top: 2.5rem;
+        margin-left: -6.25rem;
+    }
+
+    /*Analytics img*/
+    .analytics{
+    float: left;
+        margin-left:-35.625rem;
+        margin-top: -0rem;
+        padding: 4.063rem;
+    }
+
+
+    /*Analytics Heading*/
+    .analyticsheading{
+        /* margin-top: 150px; */
+        font-size: 25px;
+        font-weight: bolder;
+        position: absolute;
+        right: 430px;
+        top: 850px;
+
+    }
+
+
+
+    /*Analytics Sub Heading*/
+    .analytics_sub_heading{
+        /* font-size: ; */
+        font-weight: 500;
+        margin-top: -860px;
+        margin-left: 600px;
+    }
+
+
+    /*Analytic Para*/
+    .analyticspara{
+        margin-top: -10px;
+        color: white;
+        position: absolute;
+        right: 140px;
+        top: 1010px;
+
+    }
+
+
+
+    /* Analytics Button */
+    .analyticbutton{
+        width: 240px;
+        color: white;
+        height: 80px;
+        background-color: #5c7ad1;
+        border: 1.5px solid transparent;
+        margin-left: 440px;
+        margin-top: 200px;
+        margin-right: -10px;  
+        border-radius: 41px;  
+        text-align: center;
+        align-items: center;
+        position: absolute;
+        top: 900px;
+        font-family: Inter;
+        /* font-family:system-ui, -app
+        le-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    /*animation*/
+    transition-property:transform;
+    transition-duration: 1s;
+    transition-timing-function:ease ;}
+    .analyticbutton:hover{
+        transform: translateY(-3px)
+    }
+    
+
+    /*Phone Img*/
+    .mobiledownload{
+       
+        margin-left: 700px;
+        margin-right: 25px;
+        font-size: 25px;
+        font-weight: bolder;
+        margin-top: -300px;
+    }
+
+    /*Download Heading*/
+
+    .mobiledownload-h1 b {
+        font-size: 45px;
+        /* margin-top: -1000px; */
+        position: absolute;
+        top: 90px;
+        left: 0.1rem;
+    }
+
+    .mobiledownload-h1 {
+        margin-top: -230px;
+        margin-right: 20rem;
+        width: 700px;
+        position: absolute;
+        top: 1550px;
+        /* font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+        /* font-weight: bold; */
+    }
+
+    .mobiledownload-h1 h1{
+        position: absolute;
+        top: 120px;
+    }
+
+
+
+    /* download para */
+    .mobiledownload-p{
+            /* margin-top:110px ; */
+            position: absolute;
+            top: 1600px;
+            left: 11rem;
+    }
+
+    /*download button*/
+
+    .download-on-ios{
+        width: 250px;
+        height: 80px;
+        border: 1.75px transparent;
+        background-color:  #A39FD7;
+        margin-left: 10px;
+        /* margin-top: 110px; */
+        margin-right: 40rem;  
+        border-radius: 41px;  
+        text-align: center;
+        align-items: center;
+        font-family: Inter;
+        position: absolute;
+        top: 1670px;
+        /* font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    /*animation*/
+    transition-property:transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;}
+    .download-on-ios:hover{
+        transform: translateY(-3px)
+    }
+
+#h1-mobile{
+    font-size: small;
+    width:500px
+}
+
+    /* photo */
+    .photo4{
+        margin-left: -38.125rem;
+        margin-top: -18rem;
+    }
+
+   /* sell nft anytime */
+   .sell-nft-anytime{
+    margin-left: 35rem;
+    margin-top: -48rem; 
+  
+   }
+
+ .sell-nft-anytime-p{
+    font-weight: bolder;
+    color: white;
+    font-size: 16px;
+    margin-left: 30rem;
+    margin-top: -34rem;
+
+.sell{
+        width: 230px;
+        height: 80px;
+        border: 1.75px transparent;
+        
+        background-color:  #A39FD7;
+        border-radius: 41px;
+      position: absolute;
+     transition-property: transform;   
+     transition-duration: 0.5s;
+     transition-timing-function: ease-in;
+     .sell:hover{
+        transform: translateY(-3px);
+     }
+    }
+    
+    .sell h3{
+        color: white;
+        font-family: Inter;
+        position: fixed;
+        /* margin-left: 6.5rem; */
+        
+    }
+    
+ }
+
+
+ .footer-panel-1{
+    background-color: #010922;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+ }
+
+ ul{
+    margin-top: 120px;
+ }
+
+ul a{
+    display: block;
+    margin-left: 300px;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color:white;
+    font-weight: bolder;
+}
+
+
+ul p{
+    margin-left: 300px;
+}
+
+ul a:hover{
+    text-decoration: underline;
+}
+
+
+.footer-panel-1 h1{
+    position: absolute;
+    left: 20px;
+}
+
+ul p{
+    font-weight: bold;
+}
+
+
+section{
+    display: grid;
+    place-items: center;
+    align-content: center;
+    min-height: 100vh;
+}
+
+.footer-panel-1{
+    position: absolute;
+    top: 150rem;
+}
+
+/* @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+
+    .analyticbutton{
+        position: absolute;
+        left: 200px;
+    }
+  } */

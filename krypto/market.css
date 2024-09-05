@@ -1,0 +1,1100 @@
+    /*background color */
+    body {
+        background-color: #010922;
+        
+        font-family:Inter;
+    }
+
+
+
+    /* Kyrpto Logo */
+    h1{ 
+        font-weight: bolder;
+        color:white;
+    font-size:large;
+    
+    }
+
+
+/* discover new and rare nfts */
+     .discover-collectrarenft{
+        margin-top: 150px;
+        position: fixed;
+     }
+        
+     
+    
+    
+    .navbar{
+        height: 70px;
+        background-color:#010922;
+        width: 100%;
+        color:white;
+        display: flex;
+        
+        margin-top: -10px;
+        align-items: center;    
+    }
+    /* logo margin*/
+    .nav-logo{
+        margin-top: 10px;
+        margin-left: 25px;
+    }
+
+
+    /* about margin*/
+    .nav-about{
+        margin-left: 650px;
+        margin-top: 10px;
+    }
+
+
+    /* pricing margin*/
+    .nav-pricing{
+        margin-left: 100px;
+    margin-top: 10px;    
+    }
+
+
+    
+
+    /* terms margin*/
+    .nav-terms{
+        margin-left: 100px;
+        margin-top: 10px;
+    }
+
+
+    /* sign uppcontainer*/
+    .user-details{
+        color: white;
+        margin-left: 100px;
+        margin-top: 00px;
+        margin-right: 20px;
+        position: absolute; 
+        right: 15px; 
+        top: 30px;
+        
+
+        
+
+    }
+
+    .user-details i{
+        position: absolute;
+        top: 5px;
+        
+    }
+    
+
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    
+    .shop-nft h1{
+        text-align: start;
+        margin: 20px;
+        position: absolute;
+        top: 90px;
+        /* left: 250px; */
+        font-size:x-large;
+        color: white;
+    }
+    
+    .shop-nft h2{
+        color: rgba(255, 255, 255, 0.648);
+        position: absolute;
+        top: 95px;
+        right: 100px;
+        font-size: medium;
+    }
+    
+    
+   .filter{
+    display: flex;
+   }
+    
+    .filter h2{
+    position: absolute;
+    top: 150px;
+    color: white;
+    left: 30px;
+    }
+    
+    .min-price{
+        height: 50px;
+        width: 150px;
+        border: 1px solid rgba(112, 98, 98, 0.359);
+        position: absolute;
+        top: 100px;
+        border-radius: 15px;
+        left: 200px;
+    }
+    
+    .min p{
+        color: rgba(255, 255, 255, 0.729);
+        position: absolute;
+        top: 210px;
+        left: 20px;
+        font-weight: bold;
+    }
+    
+    .min-price p{
+        position: absolute;
+        top: 0px;
+        left: 15px;
+        font-weight: bold;
+        color: rgba(255, 255, 255, 0.732);
+    }
+    
+    .min-price  h4{
+        position: absolute;
+        left: 103px;
+        color: #ffffff9f;
+        top: -5px;
+    } 
+     
+    
+    .max p{
+        color: rgba(255, 255, 255, 0.729);
+        position: absolute;
+        top: 310px;
+        left: 20px;
+        font-weight: bold;
+    }
+    
+    
+    .max-price{
+        height: 50px;
+        width: 150px;
+        position: absolute;
+        top: 100px;
+        left: 500px;
+        border: 1px solid rgba(112, 98, 98, 0.359);
+        border-radius: 15px;
+    }
+    .max-price p{
+        position: absolute;
+        top: 0px;
+        left: 15px;
+        font-weight: bold;
+        color: rgba(255, 255, 255, 0.732);   
+    }
+    
+    .max-price h4{
+        position: absolute;
+        left: 103px;
+        color: #ffffff9f;
+        top: -5px;
+    }
+    
+    
+    
+    
+.nft1 img{
+    width: 250px;
+    height: 244px;
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    align-items:center;
+}
+
+.nft1{
+    width: 290px;
+    height: 393px;
+    background-color: #445592;
+    /* border: 3px solid rgb(0, 0, 0); */
+    border-radius: 10px;
+    position: absolute;
+    left: 40px;
+    top: 200px;
+}
+
+.nft1 h1{
+    position: absolute;
+    left: 10px;
+    top: 270px;
+    color: rgba(255, 255, 255, 0.792);
+}
+
+
+
+.nft1 h2{
+    position: absolute;
+    top: 300px;
+    left: 20px;
+    font-size: medium;
+
+}
+
+.bluetick1 img{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 313px;
+    left: 95px;
+}
+
+
+.nft1 .bluetick1 i{
+    position: absolute;
+    top: 310px;
+    left: 240px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+
+.eth1 img{
+    width: 15px;
+    height: 15px;
+    top: 345px;
+    left: 23px;
+    color: white;
+}
+
+.nft1 h3{
+    position: absolute;
+    top: 320px;
+    left: 40px;
+    color: white;
+
+}
+
+.nft1 i{
+    position: absolute;
+    /* color: rgba(0, 0, 0, 0.825); */
+    left: 165px;
+    top: 345px;
+}
+
+.nft1 h4{
+    position: absolute;
+    font-size: x-small;
+    /* color: rgba(0, 0, 0, 0.825); */
+    top: 333px;
+    left: 185px;
+}
+
+/*NFT 2*/
+
+.nft2{
+    width: 290px;
+    height: 393px;
+    background-color: #445592;
+    /* border: 3px solid rgb(0, 0, 0); */
+    border-radius: 10px;
+    position: absolute;
+    top: 200px;
+    left: 370px;
+    
+    
+}
+
+
+.nft2 img{
+    width: 250px;
+    height: 244px;
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    
+}
+
+.nft2 h1{
+    position: absolute;
+   left: 10px;
+   top: 270px;
+    color: rgba(255, 255, 255, 0.792);
+}
+
+.nft2 h2{
+    position: absolute;
+    top: 300px;
+    left: 20px;
+    font-size: small;
+
+}
+
+.bluetick2 img{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 307px;
+    left: 171px;
+}
+
+.nft2 h3{
+    position: absolute;
+    top: 317px;
+    left: 40px;
+
+}
+
+
+.eth2 img{
+    width: 15px;
+    height: 15px;
+    top: 335px;
+    position: absolute;
+    top: 342px;
+    left: 23px;
+}
+
+.nft2 .bluetick2 i{
+    position: absolute;
+    top: 310px;
+    left: 250px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+
+/*nft3*/
+
+.nft3 img{
+    width: 250px;
+    height: 244px;
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    
+}
+
+.nft3{
+    width: 290px;
+    height: 393px;
+    background-color: #445592;
+    /* border: 3px solid rgb(0, 0, 0); */
+    border-radius: 10px;
+    position: absolute;
+    top: 200px;
+    left: 700px;
+    
+}
+
+
+
+.nft3 h1{
+    position: absolute;
+   left: 10px;
+   top: 270px;
+    color: rgba(255, 255, 255, 0.792);
+}
+
+.nft3 h2{
+    position: absolute;
+    top: 300px;
+    left: 20px;
+    font-size: small;
+
+}
+
+.bluetick3 img{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 307px;
+    left: 135px;
+}
+
+.nft3 h3{
+    position: absolute;
+    top: 317px;
+    left: 40px;
+
+}
+
+
+.eth3 img{
+    width: 15px;
+    height: 15px;
+    top: 335px;
+    position: absolute;
+    top: 342px;
+    left: 23px;
+}
+
+.nft3 .bluetick3 i{
+    position: absolute;
+    top: 310px;
+    left: 240px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+
+/* nft 11 */
+.nft11 img{
+    width: 250px;
+    height: 244px;
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    
+}
+
+.nft11{
+    width: 290px;
+    height: 393px;
+    background-color: #445592;
+    /* border: 3px solid rgb(0, 0, 0); */
+    border-radius: 10px;
+    position: absolute;
+    top: 200px;
+    left: 1030px;
+    
+}
+
+
+
+.nft11 h1{
+    position: absolute;
+   left: 10px;
+   top: 270px;
+    color: rgba(255, 255, 255, 0.792);
+}
+
+.nft11 h2{
+    position: absolute;
+    top: 300px;
+    left: 20px;
+    font-size: small;
+
+}
+
+.bluetick11 img{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 307px;
+    left: 135px;
+}
+
+.nft11 h3{
+    position: absolute;
+    top: 317px;
+    left: 40px;
+
+}
+
+
+.eth11 img{
+    width: 15px;
+    height: 15px;
+    top: 335px;
+    position: absolute;
+    top: 342px;
+    left: 23px;
+}
+
+.nft11 .bluetick11 i{
+    position: absolute;
+    top: 310px;
+    left: 240px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+
+
+/*nft4*/
+.nft4{
+    width: 290px;
+    height: 393px;
+    background-color: #445592;
+    /* border: 3px solid rgb(0, 0, 0); */
+    border-radius: 10px;
+    position: absolute;
+    top: 600px;
+    left: 40px;
+    margin-top: 40px;
+
+    
+}
+
+.nft4 img{
+    width: 250px;
+    height: 244px;
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    
+}
+
+ .nft4 h1{
+    position: absolute;
+   left: 10px;
+   top: 270px;
+    color: rgba(255, 255, 255, 0.792);
+}
+
+.nft4 h2{
+    position: absolute;
+    top: 300px;
+    left: 20px;
+    font-size: small;
+
+}
+
+.bluetick4 img{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 307px;
+    left: 200px;
+}
+
+.nft4 h3{
+    position: absolute;
+    top: 317px;
+    left: 40px;
+
+}
+.nft4 h4{
+    position: absolute;
+    top: 317px;
+    left: 40px;
+
+}
+
+
+.eth4 img{
+    width: 15px;
+    height: 15px;
+    top: 335px;
+    position: absolute;
+    top: 342px;
+    left: 23px;
+}
+
+.nft4 .bluetick4 i{
+    position: absolute;
+    top: 310px;
+    left: 240px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+
+
+/*nft5*/
+.nft5{
+    width: 290px;
+    height: 393px;
+    background-color: #445592;
+    /* border: 3px solid rgb(0, 0, 0); */
+    border-radius: 10px;
+    position: absolute;
+    top: 600px;
+    left: 370px;
+    margin-top: 40px;
+    
+}
+
+.nft5 img{
+    width: 250px;
+    height: 244px;
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    
+}
+
+ .nft5 h1{
+    position: absolute;
+   left: 10px;
+   top: 270px;
+    color: rgba(255, 255, 255, 0.792);
+}
+
+.nft5 h2{
+    position: absolute;
+    top: 300px;
+    left: 20px;
+    font-size: small;
+
+}
+
+.bluetick5 img{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 307px;
+    left: 172px;
+}
+
+.nft5 h3{
+    position: absolute;
+    top: 317px;
+    left: 40px;
+
+}
+.nft5 h4{
+    position: absolute;
+    top: 317px;
+    left: 40px;
+
+}
+
+
+.eth5 img{
+    width: 15px;
+    height: 15px;
+    top: 335px;
+    position: absolute;
+    top: 342px;
+    left: 23px;
+}
+
+.nft5 .bluetick5 i{
+    position: absolute;
+    top: 310px;
+    left: 240px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+
+
+/*nft6*/
+.nft6{
+    width: 290px;
+    height: 393px;
+    background-color: #445592;
+    /* border: 3px solid rgb(0, 0, 0); */
+    border-radius: 10px;
+    position: absolute;
+    top: 640px;
+    left: 700px;
+
+    
+}
+
+.nft6 img{
+    width: 250px;
+    height: 244px;
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    
+}
+
+ .nft6 h1{
+    position: absolute;
+   left: 10px;
+   top: 270px;
+    color: rgba(255, 255, 255, 0.792);
+}
+
+.nft6 h2{
+    position: absolute;
+    top: 300px;
+    left: 20px;
+    font-size: small;
+
+}
+
+.bluetick6 img{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 307px;
+    left: 172px;
+}
+
+.nft6 h3{
+    position: absolute;
+    top: 317px;
+    left: 40px;
+
+}
+.nft6 h4{
+    position: absolute;
+    top: 317px;
+    left: 40px;
+
+}
+
+
+.eth6 img{
+    width: 15px;
+    height: 15px;
+    top: 335px;
+    position: absolute;
+    top: 342px;
+    left: 23px;
+}
+
+.nft6 .bluetick6 i{
+    position: absolute;
+    top: 310px;
+    left: 240px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+
+
+/*nft7*/
+
+
+.nft7{
+    width: 290px;
+    height: 393px;
+    background-color: #445592;
+    /* border: 3px solid rgb(0, 0, 0); */
+    border-radius: 10px;
+    position: absolute;
+    top: 1040px;
+    left: 340px;
+   margin-top: 40px;
+    
+}
+
+.nft7 img{
+    width: 250px;
+    height: 244px;
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    
+}
+
+ .nft7 h1{
+    position: absolute;
+   left: 10px;
+   top: 270px;
+    color: rgba(255, 255, 255, 0.792);
+}
+
+.nft7 h2{
+    position: absolute;
+    top: 300px;
+    left: 20px;
+    font-size: small;
+
+}
+
+.bluetick7 img{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 307px;
+    left: 172px;
+}
+
+.nft7 h3{
+    position: absolute;
+    top: 317px;
+    left: 40px;
+
+}
+.nft7 h4{
+    position: absolute;
+    top: 317px;
+    left: 40px;
+
+}
+
+
+.eth7 img{
+    width: 15px;
+    height: 15px;
+    top: 335px;
+    position: absolute;
+    top: 342px;
+    left: 23px;
+}
+
+.nft7 .bluetick7 i{
+    position: absolute;
+    top: 310px;
+    left: 240px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+
+/*nft8*/
+
+
+.nft8{
+    width: 290px;
+    height: 393px;
+    background-color: #445592;
+    /* border: 3px solid rgb(0, 0, 0); */
+    border-radius: 10px;
+    position: absolute;
+    top: 1040px;
+    left: 670px;
+   margin-top: 40px;
+    
+}
+
+.nft8 img{
+    width: 250px;
+    height: 244px;
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    
+}
+
+ .nft8 h1{
+    position: absolute;
+   left: 10px;
+   top: 270px;
+    color: rgba(255, 255, 255, 0.792);
+}
+
+.nft8 h2{
+    position: absolute;
+    top: 300px;
+    left: 20px;
+    font-size: small;
+
+}
+
+.bluetick8 img{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 307px;
+    left: 135px;
+}
+
+.nft8 h3{
+    position: absolute;
+    top: 317px;
+    left: 40px;
+
+}
+.nft8 h4{
+    position: absolute;
+    top: 317px;
+    left: 40px;
+
+}
+
+
+.eth8 img{
+    width: 15px;
+    height: 15px;
+    top: 335px;
+    position: absolute;
+    top: 342px;
+    left: 23px;
+}
+
+.nft8 .bluetick8 i{
+    position: absolute;
+    top: 310px;
+    left: 240px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+
+
+/*nft9*/
+
+
+.nft9{
+    width: 290px;
+    height: 393px;
+    background-color: #445592;
+    /* border: 3px solid rgb(0, 0, 0); */
+    border-radius: 10px;
+    position: absolute;
+    top: 1040px;
+    left: 670px;
+   margin-top: 40px;
+    
+}
+
+.nft9 img{
+    width: 250px;
+    height: 244px;
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    
+}
+
+ .nft9 h1{
+    position: absolute;
+   left: 10px;
+   top: 270px;
+    color: rgba(255, 255, 255, 0.792);
+}
+
+.nft9 h2{
+    position: absolute;
+    top: 300px;
+    left: 20px;
+    font-size: small;
+
+}
+
+.bluetick9 img{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 307px;
+    left: 172px;
+}
+
+.nft9 h3{
+    position: absolute;
+    top: 317px;
+    left: 40px;
+
+}
+.nft9 h4{
+    position: absolute;
+    top: 317px;
+    left: 40px;
+
+}
+
+
+.eth9 img{
+    width: 15px;
+    height: 15px;
+    top: 335px;
+    position: absolute;
+    top: 342px;
+    left: 23px;
+}
+
+.nft9 .bluetick9 i{
+    position: absolute;
+    top: 310px;
+    left: 240px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+
+/*nft10*/
+
+.nft10 img{
+    width: 250px;
+    height: 244px;
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    
+}
+
+.nft10{
+    width: 290px;
+    height: 393px;
+    background-color: #445592;
+    /* border: 3px solid rgb(0, 0, 0); */
+    border-radius: 10px;
+    position: absolute;
+    top: 1080px;
+    left: 1000px;
+    
+}
+
+
+
+.nft10 h1{
+    position: absolute;
+   left: 10px;
+   top: 270px;
+    color: rgba(255, 255, 255, 0.792);
+}
+
+.nft10 h2{
+    position: absolute;
+    top: 300px;
+    left: 20px;
+    font-size: small;
+
+}
+
+.bluetick10 img{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 307px;
+    left: 135px;
+}
+
+.nft10 h3{
+    position: absolute;
+    top: 317px;
+    left: 40px;
+
+}
+
+
+.eth10 img{
+    width: 15px;
+    height: 15px;
+    top: 335px;
+    position: absolute;
+    top: 342px;
+    left: 23px;
+}
+
+.nft10 .bluetick10 i{
+    position: absolute;
+    top: 310px;
+    left: 240px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+
+
+/*footer*/
+.footer-panel-1{
+    background-color: #010922;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 1500px;
+    
+ }
+
+ ul{
+    margin-top: 120px;
+    margin: 150px;
+ }
+
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color:#dddddd;
+    font-weight: bolder;
+}
+
+
+.footer-panel-1 h1{
+    position: absolute;
+    left: 20px;
+    margin: 20px;
+}
+
+
